@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leejum
-- 👀 I’m interested in everything *nix, electronics, programmatic art
+- 👀 I’m interested in everything *nix, electronics, programmatic art etc etc.
 - 🌱 I’m currently learning Python & p5js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leejmccaff@protonmail.com
